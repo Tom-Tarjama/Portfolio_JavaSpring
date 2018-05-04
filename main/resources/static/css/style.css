@@ -1,0 +1,37 @@
+*{
+	margin: 5px;
+	text-align: center;
+}
+
+.box{
+	border: 1px solid black;
+	padding: 5px;
+	width: 200px;
+	height: 50px;
+	text-align: center;
+	vertical-align: middle;
+	margin-top: 10px;
+}
+
+.main{
+	text-align: center;
+	display: inline-block;
+	vertical-align: top;
+}
+
+img{
+	width: 200px;
+}
+
+.aboutBody{
+	display: flex;
+	height: 150px;
+}
+
+.left_align{
+	text-align: left;
+}
+
+.projects{
+	display: inline-block;
+}
